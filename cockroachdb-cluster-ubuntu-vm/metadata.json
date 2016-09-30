@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Cockroach cluster on Ubuntu VMs",
+  "description": "This template creates a 'n' node Cockroach cluster on Ubuntu VMs. Use the scaleNumber parameter to specify the number of nodes in this cluster",
+  "summary": "Deploy a Cockroach cluster on Ubuntu VMs",
+  "githubUsername": "jordanlewis",
+  "dateUpdated": "2016-09-30"
+}
